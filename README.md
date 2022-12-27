@@ -8,4 +8,4 @@
 
 ## Author
 - Challenge attempt by Pohla Saromo
-- Github - @ps21-dev (https://github.com/ps21-dev)
+- Github - @psaromo (https://github.com/psaromo)
